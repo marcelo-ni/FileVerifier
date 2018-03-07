@@ -1,0 +1,9 @@
+E:\FileComparer\FileComparer\bin\Debug\FileComparer.exe
+E:\FileComparer\FileComparer\bin\Debug\FileComparer.pdb
+E:\FileComparer\FileComparer\obj\Debug\FileComparer.Form1.resources
+E:\FileComparer\FileComparer\obj\Debug\FileComparer.Properties.Resources.resources
+E:\FileComparer\FileComparer\obj\Debug\FileComparer.csproj.GenerateResource.Cache
+E:\FileComparer\FileComparer\obj\Debug\FileComparer.exe
+E:\FileComparer\FileComparer\obj\Debug\FileComparer.pdb
+E:\FileComparer\FileComparer\bin\Debug\FileComparer.exe.config
+E:\FileComparer\FileComparer\obj\Debug\FileComparer.csprojResolveAssemblyReference.cache
